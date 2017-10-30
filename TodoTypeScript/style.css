@@ -1,0 +1,55 @@
+#todo_head {
+    text-align: center;
+    font-size: 40px;
+    background-color: #ff5252 ;
+    font-family: GillSans;
+    padding: 10px;
+}
+#addbtn{
+    float: right;
+
+}
+.floatRight{
+    float: right;
+}
+body{
+    background-color: #ffebee;
+}
+.newItem{
+    background-color: #ffcdd2;
+    font-size: 20px;
+}
+.inputTbox{
+
+    padding-right: 200px;
+    padding-left: 200px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+#newTodo{
+    padding-top: 60px;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.breathVertical {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.breathHorizontal {
+    margin-left: 50px;
+    margin-right: 15px;
+
+}
+
+
+div.todoStatusACTIVE {
+    color: blue;
+}
+
+div.todoStatusCOMPLETE {
+    color: green;
+    text-decoration: line-through;
+}
